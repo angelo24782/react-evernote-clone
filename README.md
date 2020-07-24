@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Using React and Firebase - I build an Evernote clone
+
+In this project I create a clone of the popular Evernote note-taking application. This app will allow us to create notes with a full text editor and to update live to a database.
+
+## Link Demo
+
+https://evernote-clone-react.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9595f670-2a76-476b-86ef-67ac936317e3/deploy-status)](https://app.netlify.com/sites/evernote-clone-react/deploys)
 
 ## Available Scripts
 
